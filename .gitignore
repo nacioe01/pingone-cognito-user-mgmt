@@ -10,6 +10,8 @@ build/
 # Environment files (contain secrets!)
 .env
 .env.local
+.env.develop
+.env.poc
 .env.*.local
 client/.env
 server/.env
